@@ -1,0 +1,7 @@
+player pos x
+player pos y
+player xp (1 lvl = 100 xp)
+player max hp
+player actual hp
+map level (always 1)
+map floor (int from 1 to 5)
